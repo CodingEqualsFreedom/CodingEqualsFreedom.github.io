@@ -5,7 +5,7 @@ The journey into 2020 has begun......and my 2020 goals include numerous items re
 
 ### Python Project Goals
 1. Web Scraping Tool
-2. Data Analytic / Visualization Tool
+2. Data Analytics / Visualization Tool
 3. Machine Learning Project
 4. Automation Tool
 5. Complete book/course Automate the Boring Stuff
